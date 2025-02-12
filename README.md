@@ -9,7 +9,6 @@ Write a function that reads a line from a file descriptor, returning it as a str
 ## Key Features
 
 - Line Reading: Reads one line at a time from a file descriptor.
-- Multiple File Descriptors: Works with multiple file descriptors simultaneously without losing context.
 - Dynamic Buffer Size: Adapts to different buffer sizes provided by the user.
 - Memory Management: Ensures proper allocation and freeing of memory to avoid leaks.
 
